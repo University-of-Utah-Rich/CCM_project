@@ -1,0 +1,7 @@
+requests
+tqdm
+numpy
+matplotlib
+scipy
+scikit-image
+tensorflow

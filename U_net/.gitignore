@@ -1,0 +1,4 @@
+*.zip
+training_data
+.*
+__*
